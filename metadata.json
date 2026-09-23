@@ -1,0 +1,6 @@
+{
+  "name": "LuxeLips | Luxury Lipsticks & Lip Care",
+  "description": "Modern, professional luxury lipstick and lip care boutique featuring live shade swatches, virtual shade try-on, curated collections, and shopping bag.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
